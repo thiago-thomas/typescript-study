@@ -7,9 +7,7 @@ function App() {
 
   return (
     <>
-      <h1>1 + 1 = {addFunction(1,1)}</h1>
-      <h2>2 + 2 = {addArrowFunction(2,2)}</h2>
-      <h2>3 + 3 = {addArrFun(3,3)}</h2>
+      <h1>Arrays in TS</h1>
     </>
   )
 }
